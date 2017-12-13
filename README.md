@@ -1,1 +1,1 @@
-# spring-boot-rest-jpa
+Very basic application with Spring Boot, Spring REST, Spring JPA.
